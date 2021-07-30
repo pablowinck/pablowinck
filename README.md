@@ -17,7 +17,7 @@
 ## About me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pablowinck)](https://github.com/pablowinck)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-winck-winter-798004170/)](https://www.linkedin.com/in/pablo-winck-winter-798004170/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablowinck)](https://www.linkedin.com/in/pablowinck)
 
 
 <!-- [![pablowinck GitHub stats](https://github-readme-stats.vercel.app/api?username=pablowinck)](https://github.com/pablowinck/github-readme-stats) !-->

@@ -24,5 +24,3 @@
 
 
 - Thanks for visiting.
-
-- Enjoy it!! o/

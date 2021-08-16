@@ -10,7 +10,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning about React.
+:books: Already technician IT - Graduated in IFSUL / Venâncio Aires - RS, Brazil
 
  
 

@@ -10,7 +10,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: Already technician IT - Graduated in IFSUL / Venâncio Aires - RS, Brazil
+:books: Technician IT - Graduated in IFSUL / Venâncio Aires - RS, Brazil
 
  
 

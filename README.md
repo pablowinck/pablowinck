@@ -20,4 +20,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablowinck)](https://www.linkedin.com/in/pablowinck)
 
 
-<!-- [![pablowinck GitHub stats](https://github-readme-stats.vercel.app/api?username=pablowinck)](https://github.com/pablowinck/github-readme-stats) -->
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pablowinck&layout=compact)](https://github.com/pablowinck/github-readme-stats)

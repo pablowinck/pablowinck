@@ -18,6 +18,3 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pablowinck)](https://github.com/pablowinck)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablowinck)](https://www.linkedin.com/in/pablowinck)
-
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pablowinck&layout=compact)

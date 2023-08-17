@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Meu nome é [Seu Nome], e sou um Software Developer e Tech Lead com vasta experiência em tecnologias de ponta e liderança de equipes.
+Meu nome é Pablo Winck Winter, e sou um Software Developer e Tech Lead com vasta experiência em tecnologias de ponta e liderança de equipes.
 
 ## 🛠️ Tecnologias & Ferramentas
 - **Front-end**: React com Next.js

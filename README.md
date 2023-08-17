@@ -12,7 +12,7 @@ Meu nome é [Seu Nome], e sou um Software Developer e Tech Lead com vasta experi
 ## 🌱 Atualmente
 - Estou trabalhando como Software Developer na consultoria Muralis.
 - Atuo como Tech Lead em uma OSA (Operadora de Serviço de Arrecadação), cuidando especialmente de clientes PJ.
-- Represento o centro de excelência de arquitetura na minha organização, além de promover práticas de arquitetura e padrões de design de código.
+- Participo do centro de excelência de arquitetura na minha organização, além de promover práticas de arquitetura e padrões de design de código.
 
 ## 🌟 Realizações
 - Liderança proativa, contribuindo para a performance e crescimento de diversas equipes.

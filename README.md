@@ -16,7 +16,7 @@ Meu nome é Pablo Winck Winter, e sou um Software Developer e Tech Lead com vast
 
 ## 🌟 Realizações
 - Liderança proativa, contribuindo para a performance e crescimento de diversas equipes.
-- Desenvolvimento e implementação de sistemas em diversos setores, como academias, clínicas médicas e imobiliárias.
+- Desenvolvimento e implementação de sistemas em diversos setores, como pedágios, bancos, academias, clínicas médicas e imobiliárias.
 - Capacitação e treinamento de colegas, ajudando a elevar o padrão técnico dos times em que atuei.
 
 ## 💬 Vamos Conversar?

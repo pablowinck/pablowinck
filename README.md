@@ -5,7 +5,7 @@ Meu nome é Pablo Winck Winter, e sou um Software Developer e Tech Lead com vast
 ## 🛠️ Tecnologias & Ferramentas
 - **Front-end**: React com Next.js
 - **Back-end**: Java com Spring Boot
-- **Banco de Dados**: DynamoDB, Aurora MySQL
+- **Banco de Dados**: DynamoDB, MongoDB, Redis, MySQL, PostgreSQL
 - **Mensageria**: AWS SQS e SNS
 - **Arquitetura**: Hexagonal, Clean Architecture
 

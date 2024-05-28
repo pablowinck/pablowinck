@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Meu nome é Pablo Winck Winter, e sou um Software Developer e Tech Lead com vasta experiência em tecnologias de ponta e liderança de equipes.
+Meu nome é Pablo Winck Winter, e sou um Software Engineer e Tech Lead com vasta experiência em tecnologias de ponta e liderança de equipes.
 
 ## 🛠️ Tecnologias & Ferramentas
 - **Front-end**: React com Next.js
@@ -10,8 +10,8 @@ Meu nome é Pablo Winck Winter, e sou um Software Developer e Tech Lead com vast
 - **Arquitetura**: Hexagonal, Clean Architecture
 
 ## 🌱 Atualmente
-- Estou trabalhando como Software Developer na consultoria Muralis.
-- Atuo como Tech Lead em uma OSA (Operadora de Serviço de Arrecadação), cuidando especialmente de clientes PJ.
+- Estou trabalhando como System Architect na consultoria Muralis.
+- Atuo como System Architect em uma OSA (Operadora de Serviço de Arrecadação), cuidando especialmente de clientes PJ.
 - Participo do centro de excelência de arquitetura na minha organização, além de promover práticas de arquitetura e padrões de design de código.
 
 ## 🌟 Realizações

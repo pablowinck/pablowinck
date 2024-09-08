@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Meu nome é Pablo Winck Winter, e sou um Software Engineer.
+Meu nome é Pablo Winck Winter e sou um Software Engineer.
 
 ## 🛠️ Tecnologias & Ferramentas
 - **Front-end**: React com Next.js

@@ -1,17 +1,16 @@
 # Olá! 👋
 
-Meu nome é Pablo Winck Winter, e sou um Software Engineer e Tech Lead com vasta experiência em tecnologias de ponta e liderança de equipes.
+Meu nome é Pablo Winck Winter, e sou um Software Engineer.
 
 ## 🛠️ Tecnologias & Ferramentas
 - **Front-end**: React com Next.js
-- **Back-end**: Java (Spring Boot & Quarkus) e Node.js (Vanilla, Express & Nest.js)
-- **Banco de Dados**: DynamoDB, MongoDB, Redis, MySQL, PostgreSQL
-- **Mensageria**: AWS SQS e SNS, Kafka e RabbitMQ
-- **Arquitetura**: Hexagonal, Clean Architecture
+- **Back-end**: Java (Spring Boot & Quarkus) & Node.js (Vanilla, Express & Nest.js)
+- **Banco de Dados**: MySQL, PostgreSQL, OracleDB, DynamoDB, MongoDB / DocumentDB & Redis
+- **Mensageria**: AWS SQS e SNS, Kafka & RabbitMQ
 
 ## 🌱 Atualmente
 - Estou trabalhando como System Architect na consultoria Muralis.
-- Atuo como System Architect em uma OSA (Operadora de Serviço de Arrecadação), cuidando especialmente de clientes PJ.
+- Atuo como System Architect em uma OSA (Operadora de Serviço de Arrecadação), cuidando especialmente de clientes PJ e produtos regulamentados.
 - Participo do centro de excelência de arquitetura na minha organização, além de promover práticas de arquitetura e padrões de design de código.
 
 ## 🌟 Realizações

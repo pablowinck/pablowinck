@@ -21,4 +21,4 @@ Meu nome é Pablo Winck Winter e sou um Software Engineer.
 ## 💬 Vamos Conversar?
 Estou sempre aberto a novas ideias, colaborações e discussões. Sinta-se à vontade para entrar em contato!
 
-[🔗 LinkedIn](https://www.linkedin.com/in/pablowinck/) | [🐦 Twitter](https://twitter.com/dev_winter) | [✉️ E-mail](mailto:contato@pablowinter.com.br) | [📅 Agende um bate-papo de 30 minutos](https://calendly.com/pablowinck123/30min)
+[🔗 LinkedIn](https://www.linkedin.com/in/pablowinck/) | [✉️ E-mail](mailto:contato@pablowinter.com.br) | [📅 Agende um bate-papo de 30 minutos](https://calendly.com/pablowinck123/30min)

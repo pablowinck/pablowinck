@@ -1,14 +1,19 @@
-# Olá! 👋
+ ### Pablo Winter
 
-Meu nome é Pablo Winck Winter e sou um Software Engineer.
+Partner at [Nextside](https://nextside.tech). CTO at [Pedágio Eletrônico](https://www.pedagioeletronico.com.br) — digital products in mobility and revenue collection. 10+ years of engineering.
 
-## 🛠️ Tecnologias & Ferramentas
-- **Front-end**: React com Next.js
-- **Back-end**: Java (Spring Boot & Quarkus) & Node.js (Vanilla, Express & Nest.js)
-- **Banco de Dados**: MySQL, PostgreSQL, OracleDB, DynamoDB, MongoDB / DocumentDB & Redis
-- **Mensageria**: AWS SQS e SNS, Kafka & RabbitMQ
+I lead small senior teams that ship in 4-week Sprints. Java/Spring Boot, Node.js, Next.js, Python. Hexagonal architecture, event-driven systems (SQS, SNS, RabbitMQ, Kafka), heavy integrations with ERPs and
+gateways.
 
-## 💬 Vamos Conversar?
-Estou sempre aberto a novas ideias, colaborações e discussões. Sinta-se à vontade para entrar em contato!
+**What I'm thinking about right now**
+- AI-augmented development with discipline — Claude Code + superpowers, encoded process, not vibes.
+- Small teams with expensive people — fewer seats, more ownership, less coordination tax.
+- Why fast delivery isn't magic — it's brutal scope cuts and tight feedback loops.
 
-[🔗 LinkedIn](https://www.linkedin.com/in/pablowinck/) | [✉️ E-mail](mailto:contato@pablowinter.com.br) | [📅 Agende um bate-papo de 30 minutos](https://calendly.com/pablowinck123/30min)
+**Where to find me**
+- Writing → [blog.nextside.tech](https://blog.nextside.tech)
+- Fractional CTO / advisory → [pablowinter.com.br](https://www.pablowinter.com.br/)
+- LinkedIn → [in/pablowinck](https://www.linkedin.com/in/pablowinck/)
+- Email → contato@pablowinter.com.br
+
+No newsletter. No formula. Read, decide if you like it, come back.

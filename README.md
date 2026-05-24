@@ -1,4 +1,4 @@
- ### Pablo Winter
+### Pablo Winck Winter
 
 Partner at [Nextside](https://nextside.tech). CTO at [Pedágio Eletrônico](https://www.pedagioeletronico.com.br) — digital products in mobility and revenue collection. 10+ years of engineering.
 
